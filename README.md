@@ -1,6 +1,3 @@
-@settings {
-  font-size: 100;
-}
 # Assignment-2-2022
 # Headline
 * Line 1
